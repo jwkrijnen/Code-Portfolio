@@ -1,8 +1,5 @@
 //  ========================================================================
-//  COSC363: Computer Graphics (2016);  University of Canterbury.
-//
-//  FILE NAME: Yard.cpp
-//  See Lab05.pdf for details.
+//  Name redacted
 //  ========================================================================
  
 #include <iostream>
